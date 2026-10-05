@@ -436,3 +436,8 @@ Python
 # ⚡ Goku | AI & ML Developer
 
 </div>
+<h2 align="center">⚡ Welcome to My GitHub ⚡</h2>
+
+<div align="center">
+  <img src="assets/github-animation.gif" width="800">
+</div>
