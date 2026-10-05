@@ -1,4 +1,4 @@
-# 😈🔥 LUCKY GUPTA 🔥😈
+0# 😈🔥 LUCKY GUPTA 🔥😈
 
 <div align="center">
 
@@ -422,5 +422,13 @@ Python
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
 
 **⭐ Star my repositories if you find them useful!**
+
+</div>
+
+<div align="center">
+
+<img src="YOUR_GOKU_GIF_URL" width="300">
+
+# ⚡ Goku | AI & ML Developer
 
 </div>
