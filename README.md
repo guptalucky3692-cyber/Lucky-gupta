@@ -3,7 +3,11 @@
 <div align="center">
 
 # ☠️ WELCOME TO THE my profile ☠️
+<h2 align="center">⚡ Welcome to My GitHub ⚡</h2>
 
+<div align="center">
+  <img src="assets/github-animation.gif" width="800">
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=Lucky+Gupta+%7C+Machine+Learning+Engineer;Code+is+my+weapon+%F0%9F%94%A5;Data+is+my+power+%F0%9F%92%80;Build.+Break.+Learn.+Repeat.;Entering+the+Dark+Side...+%F0%9F%91%BF"/>
 
 </div>
